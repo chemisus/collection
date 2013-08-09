@@ -1,0 +1,20 @@
+{
+    "name": "chemisus/collections",
+    "description": "collections",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Terrence Howard",
+            "email": "chemisus@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "*",
+        "mockery/mockery": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Chemisus": "src/"
+        }
+    }
+}
